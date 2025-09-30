@@ -1,1 +1,5 @@
-
+Name of Quantlet: Crypto_Zombies  
+Description: Machine learning pipeline predicting “zombie” cryptocurrencies — assets that become untradable for ≥28 days.
+Keywords: returns, trading volume, market capitalisation, asset features, machine learning, explainable AI, XAI, random forest, zombie cryptocurrencies, crypto  
+Author: Barbara Będowska-Sójka, Piotr Wójcik, Daniel Traian Pele
+Submitted: 30.09.2025  
